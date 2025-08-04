@@ -5,7 +5,7 @@
 ## *Community Management para la Mayor Comunidad de Lectores*
 
 ### **Proyecto para candidatura Community Manager - XYZ**
-
+💡 Esta estrategia es una propuesta genérica pensada para adaptarse al entorno editorial. En caso de colaboración, el enfoque se personalizaría a las necesidades de la marca.
 ---
 
 ## 📋 **Estructura del Repositorio**
@@ -207,4 +207,4 @@ Puedes copiar, distribuir, remezclar, adaptar y construir a partir de este mater
 Consulta los términos completos en [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ---
 
-*Proyecto creado específicamente para la candidatura de Community Manager en un Grupo Editorial - Agosto 2025
+✨ “Larentalia” es mi nombre artístico y digital, inspirado en las celebraciones de la diosa Larenta. Así firmo mis proyectos creativos y tecnológicos.
