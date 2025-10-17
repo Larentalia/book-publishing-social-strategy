@@ -4,8 +4,6 @@
 # 📚 **Estrategia de Contenido para Editorial Literaria**
 ## *Community Management para la Mayor Comunidad de Lectores*
 
-### **Proyecto para candidatura Community Manager - XYZ**
-💡 Esta estrategia es una propuesta genérica pensada para adaptarse al entorno editorial. En caso de colaboración, el enfoque se personalizaría a las necesidades de la marca.
 ---
 
 ## 📋 **Estructura del Repositorio**
