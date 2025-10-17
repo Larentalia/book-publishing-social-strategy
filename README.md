@@ -1,5 +1,15 @@
-# 📚   📚 Content Strategy for Literary Publishers 
-**A comprehensive community management framework for publishing brands**
+# Social Media Strategy for Book Publishing
+
+A comprehensive social media marketing framework for book launches. This project demonstrates strategic planning, content creation, and data-driven campaign management applicable to any publishing house.
+
+**Project Type:** Marketing Strategy Framework  
+**Industry:** Book Publishing  
+**Platforms:** Instagram, TikTok, Twitter, Facebook  
+**Timeline:** 12-week launch campaign
+
+This framework can be adapted for fiction, non-fiction, or specialized genres.
+
+---
 
 🎯 Tailored proposal for engaging literary communities on Instagram and TikTok  
 💡 Includes market analysis, creative content proposals, and performance metrics  
