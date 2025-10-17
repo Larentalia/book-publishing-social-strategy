@@ -1,208 +1,170 @@
-# estrategia-editorial-rrss
-📚 Estrategia integral de Community Management para sector editorial 🎯 Propuesta específica para gestión de comunidades lectoras en Instagram y TikTok 💡 Incluye análisis de mercado, propuestas creativas y métricas específicas
+📚 Editorial Content Strategy for BookTok & BookGram
+A comprehensive community management framework for publishing brands
+🎯 Tailored proposal for engaging literary communities on Instagram and TikTok
+💡 Includes market analysis, creative content proposals, and performance metrics
 
-# 📚 **Estrategia de Contenido para Editorial Literaria**
-## *Community Management para la Mayor Comunidad de Lectores*
+📚 Content Strategy for Literary Publishers
+Community Management for the Largest Reader Communities
 
----
+📋 Repository Structure
 
-## 📋 **Estructura del Repositorio**
-
-```
-estrategia-editorial-rrss/
+editorial-content-strategy/
 │
-├── README.md                          # Presentación del proyecto
-├── 01-analisis-mercado/
-│   ├── analisis-competencia.md        # Benchmarking de editoriales
-│   ├── audiencias-objetivo.md         # Perfiles de lectores por plataforma
-│   └── tendencias-sector.md           # Tendencias actuales en BookTok/BookGram
+├── README.md                          # Project overview
+├── 01-market-analysis/
+│   ├── competitor-analysis.md         # Publisher benchmarking
+│   ├── target-audiences.md            # Reader profiles by platform
+│   └── industry-trends.md             # Current trends on BookTok/BookGram
 │
-├── 02-estrategia-contenido/
-│   ├── pilares-contenido.md           # Ejes temáticos principales
-│   ├── calendario-editorial.md        # Planificación mensual
-│   └── guia-tono-voz.md              # Brand voice para comunidades lectoras
+├── 02-content-strategy/
+│   ├── content-pillars.md             # Core thematic axes
+│   ├── editorial-calendar.md          # Monthly planning
+│   └── brand-voice-guide.md           # Tone and voice for reader communities
 │
-├── 03-propuestas-contenido/
+├── 03-content-proposals/
 │   ├── instagram/
-│   │   ├── posts-feed.md              # Propuestas para feed principal
-│   │   ├── stories-interactivas.md    # Ideas de stories y highlights
-│   │   └── reels-tendencias.md        # Contenido viral adaptado a libros
+│   │   ├── feed-posts.md              # Main feed content ideas
+│   │   ├── interactive-stories.md     # Story and highlight formats
+│   │   └── trending-reels.md          # Viral book-related content
 │   │
 │   ├── tiktok/
-│   │   ├── booktok-challenges.md      # Desafíos literarios
-│   │   ├── autores-contenido.md       # Colaboraciones con escritores
-│   │   └── detras-escenas.md          # Behind the scenes editorial
+│   │   ├── booktok-challenges.md      # Literary challenges
+│   │   ├── author-collabs.md          # Collaborations with writers
+│   │   └── behind-scenes.md           # Editorial behind-the-scenes
 │   │
-│   └── contenido-transversal/
-│       ├── campanas-lanzamiento.md    # Estrategias para nuevos títulos
-│       ├── eventos-digitales.md       # Clubs lectura, presentaciones online
-│       └── ugc-estrategias.md         # Fomento contenido usuario
+│   └── cross-platform-content/
+│       ├── launch-campaigns.md        # New title strategies
+│       ├── digital-events.md          # Book clubs, online launches
+│       └── ugc-strategy.md            # User-generated content initiatives
 │
-├── 04-metricas-kpis/
-│   ├── dashboard-principal.md         # KPIs principales a monitorear
-│   ├── objetivos-smart.md             # Metas específicas y medibles
-│   └── reportes-tipo.md               # Templates de informes mensuales
+├── 04-metrics-kpis/
+│   ├── main-dashboard.md              # Key performance indicators
+│   ├── smart-goals.md                 # Specific, measurable objectives
+│   └── report-templates.md            # Monthly reporting formats
 │
-├── 05-crisis-reputacion/
-│   ├── protocolo-crisis.md            # Plan de respuesta a crisis
-│   ├── escalamiento.md                # Flujo de escalamiento interno
-│   └── casos-estudio.md               # Análisis de crisis en sector editorial
+├── 05-reputation-crisis/
+│   ├── crisis-protocol.md             # Crisis response plan
+│   ├── escalation-flow.md             # Internal escalation workflow
+│   └── case-studies.md                # Editorial crisis analysis
 │
-├── 06-recursos-visuales/
-│   ├── mockups/                       # Diseños ejemplo (Canva/Napkin)
-│   │   ├── posts-instagram.pdf
-│   │   ├── stories-templates.pdf
+├── 06-visual-resources/
+│   ├── mockups/                       # Sample designs (Canva/Napkin)
+│   │   ├── instagram-posts.pdf
+│   │   ├── story-templates.pdf
 │   │   └── tiktok-concepts.pdf
 │   │
-│   ├── paleta-colores.md              # Propuesta visual
-│   └── tipografias-recomendadas.md    # Guía tipográfica
+│   ├── color-palette.md               # Visual identity proposal
+│   └── recommended-fonts.md           # Typography guide
 │
-├── 07-herramientas-workflow/
-│   ├── stack-tecnologico.md           # Herramientas recomendadas
-│   ├── workflow-publicacion.md        # Proceso de creación y aprobación
-│   └── calendario-herramientas.md     # Integración Hootsuite/Metricool
+├── 07-tools-workflow/
+│   ├── tech-stack.md                  # Recommended tools
+│   ├── publishing-workflow.md         # Creation and approval process
+│   └── tools-calendar.md              # Hootsuite/Metricool integration
 │
-└── 08-implementacion/
-    ├── primeros-30-dias.md            # Plan de acción inmediato
-    ├── roadmap-6-meses.md             # Hoja de ruta semestral
-    └── presupuesto-estimado.md        # Recursos necesarios
-```
+└── 08-implementation/
+    ├── first-30-days.md              # Immediate action plan
+    ├── 6-month-roadmap.md            # Strategic roadmap
+    └── estimated-budget.md           # Required resources
+🎯 Project Objectives
+Key Competencies Demonstrated:
+✅ Strategic analysis of the publishing sector on social media
+✅ Deep understanding of Instagram and TikTok ecosystems
+✅ Content planning and editorial coordination
+✅ Data-driven approach using KPIs and metrics
+✅ Creative vision tailored to reader communities
+✅ Crisis management for publishing-specific scenarios
+Added Value:
+• 	Concrete, executable proposals from day one
+• 	Real-world competitor analysis
+• 	Visual mockups created with Canva and Napkin
+• 	Reusable templates for team workflows
+• 	Specific strategies for reader loyalty and engagement
 
----
+🚀 Project Differentiators
+1. Reader-Centric Focus
+This is not a generic social media strategy—it’s specifically designed for:
+• 	BookTok and BookGram communities
+• 	Diverse reader segments (age, genre, format)
+• 	Seasonal publishing cycles
+• 	Collaborations with book bloggers and influencers
+2. Data-Driven Analysis
+• 	Benchmarking of direct competitors
+• 	Analysis of current literary social trends
+• 	Publishing-specific KPIs
+• 	Experimental proposals to validate strategies
+3. Applied Experience
+• 	Proven methodologies from past roles
+• 	B2B techniques adapted to cultural B2C communities
+• 	Crisis management tailored to editorial controversies
+• 	Optimized workflow for multidisciplinary teams
+4. Forward-Thinking Vision
+• 	Integration of generative AI in content creation
+• 	Automated reporting and analytics
+• 	Audience segmentation for personalized content
+• 	Advanced qualitative engagement metrics
 
-## 🎯 **Objetivos del Proyecto**
+💡 Featured Content Highlights
+Competitor Analysis:
+• 	XYZ vs. XYZ vs. XYZ
+• 	What’s working in Spanish BookTok?
+• 	Untapped opportunities in the market
+Creative Proposals:
+• 	“30 Days, 30 Books Challenge” for TikTok
+• 	“Behind the Manuscript” for Instagram Stories
+• 	“Virtual Book Club” with live author sessions
+• 	“My First/Last Book” – emotional storytelling formats
+Templates & Resources:
+• 	Editorial calendar with key publishing dates
+• 	Response guide for negative comments
+• 	Crisis kit for author-related controversies
+• 	Genre-specific mockups for literary campaigns
+Innovative Metrics:
+• 	Conversion rate by content type
+• 	Qualitative vs. quantitative engagement
+• 	Lifetime value of converted followers
+• 	Share of voice in literary conversations
 
-### **Demostrar competencias clave:**
-✅ **Análisis estratégico** del sector editorial en RRSS  
-✅ **Conocimiento profundo** de Instagram y TikTok  
-✅ **Capacidad de planificación** de contenidos  
-✅ **Enfoque basado en métricas** y KPIs  
-✅ **Visión creativa** adaptada a comunidades lectoras  
-✅ **Gestión de crisis** específica para editoriales  
+🎨 Visual Elements (Canva + Napkin)
+Planned Mockups:
+1. 	Instagram post series for novel launches
+2. 	Interactive stories for reader polls
+3. 	TikTok concepts aligned with current trends
+4. 	Market analysis infographics
+5. 	Visual KPI dashboard
+Proposed Color Palette:
+• 	Inspired by XYZ’s current brand identity
+• 	Optimized for mobile readability
+• 	Genre-based variations (thriller, romance, nonfiction)
 
-### **Valor añadido:**
-- **Propuestas concretas** y ejecutables desde el primer día
-- **Análisis de competencia** real del sector
-- **Mockups visuales** creados con Canva y Napkin
-- **Templates reutilizables** para el equipo
-- **Estrategias específicas** para fidelización de lectores
+📊 Analysis Methodology
+Tools Used:
+• 	Semrush / SimilarWeb – Web traffic analysis
+• 	Social Blade – Social media growth tracking
+• 	Google Trends – Literary search trend insights
+• 	Manual Benchmarking – Competitor engagement and content review
+Evaluation Framework:
+• 	SWOT Matrix tailored to XYZ’s social media presence
+• 	Digital Reader Journey – Mapping user experience
+• 	Conversion Funnel – From follower to buyer
+• 	Sentiment Analysis – Community tone and engagement
 
----
+🏆 Expected Outcomes
+This project showcases my ability to:
+✅ Research and analyze niche markets
+✅ Build actionable strategies grounded in real data
+✅ Design engaging, platform-native content
+✅ Plan mid-term campaigns with measurable goals
+✅ Anticipate challenges and craft solutions
+✅ Communicate ideas clearly through visual and written formats
 
-## 🚀 **Diferenciadores del Proyecto**
 
-### **1. Enfoque Específico en Lectores**
-No es una estrategia genérica de RRSS, sino **adaptada específicamente** a:
-- Comunidades BookTok y BookGram
-- Diferentes tipos de lectores (por edad, género literario, formato)
-- Estacionalidad del sector editorial
-- Colaboraciones con bookbloggers e influencers
+📄 License
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+You may copy, distribute, remix, adapt, and build upon this material as long as:
+• 	✍️ You credit the original author (Begoña)
+• 	🚫 You do not use it for commercial purposes
+• 	🔁 You share any derivative work under the same license
+Full terms: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-### **2. Análisis Basado en Datos Reales**
-- Benchmarking de **competidores directos** 
-- Análisis de **tendencias actuales** en redes sociales literarias
-- **KPIs específicos** del sector editorial
-- Propuestas de **experimentos** para validar estrategias
-
-### **3. Experiencia Aplicada**
-- Metodologías probadas en mi experiencia anterior
-- **Adaptación** de técnicas B2B a comunidades B2C culturales
-- **Crisis management** específico para controversias editoriales
-- **Workflow** optimizado para equipos multidisciplinares
-
-### **4. Visión a Futuro**
-- Integración de **IA generativa** en creación de contenidos
-- **Automatización** de reportes y análisis
-- **Personalización** de contenido por segmentos de audiencia
-- **Métricas avanzadas** de engagement cualitativo
-
----
-
-## 💡 **Contenidos Destacados que Incluiré**
-
-### **Análisis de Competencia:**
-- XYZ vs. XYZ vs. XYZ
-- ¿Qué está funcionando en BookTok español?
-- Oportunidades no explotadas en el mercado
-
-### **Propuestas Creativas Concretas:**
-- "**Reto 30 días, 30 libros**" para TikTok
-- "**Detrás del manuscrito**" para Instagram Stories
-- "**Bookclub virtual**" con autores en vivo
-- "**Mi primer/último libro**" - contenido emocional
-
-### **Templates y Recursos:**
-- **Calendario editorial** con fechas clave del sector
-- **Guía de respuesta** a comentarios negativos
-- **Kit de crisis** para controversias de autores
-- **Mockups** de posts para diferentes géneros literarios
-
-### **Métricas Innovadoras:**
-- **Tasa de conversión** a compra por tipo de contenido
-- **Engagement cualitativo** vs. cuantitativo
-- **Lifetime value** de seguidores convertidos en lectores
-- **Share of voice** en conversaciones literarias online
-
----
-
-## 🎨 **Elementos Visuales (Canva + Napkin)**
-
-### **Mockups que crearé:**
-1. **Serie de posts Instagram** para lanzamiento de novela
-2. **Stories interactivas** para elección de próxima lectura
-3. **Conceptos TikTok** adaptados a tendencias actuales
-4. **Infografías** de análisis de mercado
-5. **Dashboard** visual de KPIs principales
-
-### **Paleta de colores propuesta:**
-- Inspirada en la identidad actual de XYZ
-- Adaptada para **alta legibilidad** en mobile
-- **Variaciones por género** literario (thriller, romance, ensayo)
-
----
-
-## 📊 **Metodología de Análisis**
-
-### **Herramientas utilizadas:**
-- **Semrush/SimilarWeb:** Análisis de tráfico web
-- **Social Blade:** Datos de crecimiento en RRSS
-- **Google Trends:** Tendencias de búsqueda literarias
-- **Análisis manual:** Engagement y contenido de competidores
-
-### **Framework de evaluación:**
-- **Matriz DAFO** específica para XYZ en RRSS
-- **Customer Journey** del lector digital
-- **Funnel de conversión** desde seguidor hasta comprador
-- **Análisis de sentiment** en comunidades literarias
-
----
-
-## 🏆 **Resultados Esperados**
-
-Este proyecto demuestra mi capacidad para:
-
-✅ **Investigar y analizar** mercados específicos  
-✅ **Crear estrategias** basadas en datos reales  
-✅ **Diseñar contenido** atractivo y funcional  
-✅ **Planificar a medio plazo** con objetivos medibles  
-✅ **Anticipar problemas** y diseñar soluciones  
-✅ **Comunicar ideas** de forma clara y visual  
-
-**Más que un proyecto académico, es una propuesta ejecutable que podría implementarse desde el primer día en una editorial.**
-
----
-
-## 📄 Licencia
-
-Este proyecto está protegido bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](LICENSE.md).
-
-Puedes copiar, distribuir, remezclar, adaptar y construir a partir de este material **siempre que**:
-
-- ✍️ Des crédito a la autora original (Begoña)  
-- 🚫 No lo utilices con fines comerciales  
-- 🔁 Compartas cualquier obra derivada bajo la misma licencia  
-
-Consulta los términos completos en [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
----
-
-✨ “Larentalia” es mi nombre artístico y digital, inspirado en las celebraciones de la diosa Larenta. Así firmo mis proyectos creativos y tecnológicos.
+✨ About Larentalia
+“Larentalia” is my creative and digital signature, inspired by the ancient Roman celebrations of the goddess Larenta. It’s how I sign my strategic, artistic, and technological projects—where storytelling meets systems thinking.
