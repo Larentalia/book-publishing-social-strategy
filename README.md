@@ -1,12 +1,10 @@
-# 📚 Editorial Content Strategy for BookTok & BookGram  
-**A comprehensive community management framework for publishing brands**  
+# 📚   📚 Content Strategy for Literary Publishers 
+**A comprehensive community management framework for publishing brands**
+
 🎯 Tailored proposal for engaging literary communities on Instagram and TikTok  
-💡 Includes market analysis, creative content proposals, and performance metrics
+💡 Includes market analysis, creative content proposals, and performance metrics  
+📣 Editorial content strategy for BookTok and BookGram
 
----
-
-## 📚 Content Strategy for Literary Publishers  
-### *Community Management for the Largest Reader Communities*
 
 ---
 
