@@ -4,7 +4,7 @@ A comprehensive social media marketing framework for book launches. This project
 
 **Project Type:** Marketing Strategy Framework  
 **Industry:** Book Publishing  
-**Platforms:** Instagram, TikTok, Twitter, Facebook  
+**Platforms:** Instagram, TikTok
 **Timeline:** 12-week launch campaign
 
 This framework can be adapted for fiction, non-fiction, or specialized genres.
